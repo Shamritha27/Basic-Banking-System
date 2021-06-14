@@ -6,8 +6,8 @@
        <i class="fa fa-university icon fa-2x" style="height:43px;color:white;"></i>
        <h2 style="color:white;padding-left:10px;font-family: serif;">The Sparks Bank</h2>
 
-    <ul class="cul ml-auto">
-        <li class="cli" style="width:100%">
+    <ul class="cul ml-auto" style="width:100%">
+        <li class="cli">
             <a class="text" href="index.php">Home</a>
         </li>
         <li>
