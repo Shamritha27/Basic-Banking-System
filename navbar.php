@@ -7,7 +7,7 @@
        <h2 style="color:white;padding-left:10px;font-family: serif;">The Sparks Bank</h2>
 
     <ul class="cul ml-auto">
-        <li class="cli" style="padding-left:109px;font-size: 20px;width:100%;">
+        <li class="cli" >
             <a class="text" href="index.php">Home</a>
         </li>
         <li>
