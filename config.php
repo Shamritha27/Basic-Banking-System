@@ -1,8 +1,8 @@
 <?php
-	$servername = 'localhost';
-	$user = 'root';
-	$pass = '';
-	$dbname = 'bank_data';
+	$servername = 'sql6.freesqldatabase.com';
+	$user = 'sql6418975';
+	$pass = 'V5IRqBQbI9';
+	$dbname = 'sql6418975';
 
 	$conn = mysqli_connect($servername,$user,$pass,$dbname);
 
