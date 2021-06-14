@@ -2,7 +2,7 @@
 <link rel="stylesheet" href="navbar.css">
 
 
-<div class="navbar" style="width:100%">
+<div class="navbar">
        <i class="fa fa-university icon fa-2x" style="height:43px;color:white;"></i>
        <h2 style="color:white;padding-left:10px;font-family: serif;">The Sparks Bank</h2>
 
